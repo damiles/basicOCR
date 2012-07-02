@@ -17,10 +17,10 @@ Requirements
 Compilation
 ===========
 
-mkdir build
-cd build
-cmake ../basicOCR
-make
+    mkdir build
+    cd build
+    cmake ../basicOCR
+    make
 
 Running demo
 ============
@@ -35,10 +35,10 @@ You can increase or decrease cursor radio with "+" and "-" keys
 Keys control
 ============
 
-"r" - reset image
-"+" - cursor radio ++
-"-" - cursor radio --
-"s" - Save image as out.png
-"c" - Classify image,  the result in console
-ESC - quit the program
+    "r" - reset image
+    "+" - cursor radio increment
+    "-" - cursor radio decrement
+    "s" - Save image as out.png
+    "c" - Classify image,  the result in console
+    ESC - quit the program
 
