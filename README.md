@@ -5,7 +5,7 @@ Basic Optical Character Recognition Tutorial. Damiles Blog.
 
 This source code is not for professional uses,  this is for educational uses, and describe the common technics for create an OCR application
 
-For more info about this see: http://blog.damiles.com/2008/11/basic-ocr-in-opencv/
+For more info about this see: http://blog.damiles.com/2008/11/20/basic-ocr-in-opencv.html
 
 
 Requirements
